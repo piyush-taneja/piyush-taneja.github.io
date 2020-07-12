@@ -10,4 +10,5 @@ The firm was established in the year of 2013 with the notion of connecting you a
 
 - Developed E-malers for the company using HTML, CSS, JavaScript.
 - Worked on the Magento platform.
-- My Daily task was to make E-malers for the upcoming festivals using my tech stack and use different products available on the website to help thecompany in making their customers aware about it.
+- My Daily task was to make E-malers for the upcoming festivals using my tech stack and use different products available on the website to help thecompany in making their     customers aware about it.
+- Technoloies worked on-> HTML, CSS, JavaScript, Jquery, Bootstrap, MySQL, PHP, Adobe Photoshop
