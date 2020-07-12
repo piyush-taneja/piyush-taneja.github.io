@@ -7,7 +7,7 @@
 [ClearTrail Technologies](/ClearTrail) (Indore • India)
 - Associate Software Engineer • Jul 2020 - Present
 
-[MothersonSumi INfotech & Design Limited](/MIND) (Noida • India)
+[MothersonSumi INfotech & Design Limited](/mind) (Noida • India)
 - Backend Developer Intern • May 2019 - Jul 2019 (3 mon)
 
 
