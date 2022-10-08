@@ -31,7 +31,7 @@
 ### Education
 
 **B.Tech CSE**
-- Jaypee University of Information Technology (JUIT Solan)</a> • Jul 2016 - Jul 2020
+- Jaypee University of Information Technology (JUIT Solan) • Jul 2016 - Jul 2020
 
 **12th CBSE**
 - Apeejay School Sheikh Sarai, New Delhi • 2015 - May 2016
