@@ -31,7 +31,7 @@
 ### Education
 
 **B.Tech CSE**
-- <a href="http://www.juit.ac.in/" target="_blank">Jaypee University of Information Technology (JUIT Solan)</a> • 8.2 CGPA • Jul 2016 - Jul 2020
+- <a href="http://www.juit.ac.in/" target="_blank">Jaypee University of Information Technology (JUIT Solan)</a> • Jul 2016 - Jul 2020
 
 **12th CBSE**
 - Apeejay School Sheikh Sarai, New Delhi • 2015 - May 2016
