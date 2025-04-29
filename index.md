@@ -35,12 +35,12 @@
 - Indian Institute of Management Udaipur • 2024 - 2025
 
 **B.Tech CSE**
-- Jaypee University of Information Technology (JUIT Solan) • Jul 2016 - Jul 2020
+- Jaypee University of Information Technology (JUIT Solan) • 2016 - 2020
 
 **12th CBSE**
-- Apeejay School Sheikh Sarai, New Delhi • 2015 - May 2016
+- Apeejay School Sheikh Sarai, New Delhi • 2015 - 2016
 
 **10th CBSE**
-- Apeejay School Sheikh Sarai, New Delhi • Apr 2016 - May 2014
+- Apeejay School Sheikh Sarai, New Delhi • 2016 - 2014
 
 ---
