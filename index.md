@@ -3,8 +3,11 @@
 ---
 
 ### Work Experience
+[Sahamati](/Sahamati) (Bangalore • India)
+- Product Manager • Apr 2025 - Present
+  
 [Sigmoid Analytics](/Sigmoid) (Bangalore • India)
-- Software Development Engineer 1 • Dec 2021 - Present
+- Software Development Engineer 1 • Dec 2021 - Apr 2024
 
 [ClearTrail Technologies](/ClearTrail) (Indore • India)
 - Associate Software Engineer • Sep 2020 - Dec 2021
@@ -20,23 +23,24 @@
 
 ### Skills
 
-- Backend • Python • MySQL
-- Development • C++ • Java • Python
-- Data Structures + Algo • Tech Writer • Mentor • Lead • Queuing System
-- Core Subjects • Networking • DBMS • Operating System • OOPS 
-
+- Product Management • Canva • Figma • Jira
+- GEN AI • Open AI • Agentic AI • Gemini • Pinecone
+- Technical • SQL • Python • PySpark • Microsoft Azure • Databircks
 
 ---
 
 ### Education
 
+**MBA DEM**
+- Indian Institute of Management Udaipur • 2024 - 2025
+
 **B.Tech CSE**
-- Jaypee University of Information Technology (JUIT Solan) • Jul 2016 - Jul 2020
+- Jaypee University of Information Technology (JUIT Solan) • 2016 - 2020
 
 **12th CBSE**
-- Apeejay School Sheikh Sarai, New Delhi • 2015 - May 2016
+- Apeejay School Sheikh Sarai, New Delhi • 2015 - 2016
 
 **10th CBSE**
-- Apeejay School Sheikh Sarai, New Delhi • Apr 2016 - May 2014
+- Apeejay School Sheikh Sarai, New Delhi • 2016 - 2014
 
 ---
